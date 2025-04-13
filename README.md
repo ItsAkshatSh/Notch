@@ -18,7 +18,7 @@ An intuitive and sleek media control inspired by Apple's notch design. Control y
 
 ## Installation
 
-Download from [here](https://drive.google.com/drive/u/0/folders/1i_uUQR8yAEZ6dBlTMFZQMtq9Blx7WueC)
+Download from [here]([https://drive.google.com/drive/u/0/folders/1i_uUQR8yAEZ6dBlTMFZQMtq9Blx7WueC](https://drive.google.com/drive/folders/1hgtx2dUYj_SMsByUSKacl3knMf8StdYX?usp=sharing))
 
 ### Prerequisites
 Ensure you have the following installed on your system:
